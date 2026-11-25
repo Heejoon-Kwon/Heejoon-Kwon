@@ -7,23 +7,38 @@
 
 </div>
 
----
 
 ## Education
 
-**Sungkyunkwan University (SKKU)**  
-Global Leader / Computer Science and Engineering
+<p>
+<img src="https://www.google.com/s2/favicons?domain=skku.edu&sz=128" width="24" height="24" align="absmiddle" alt="SKKU"/>
+&nbsp; <strong>Sungkyunkwan University (SKKU)</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Global Leader / Computer Science and Engineering
+</p>
 
-**Hankuk Academy of Foreign Studies (HAFS)**  
-German Language
+<p>
+<img src="https://www.google.com/s2/favicons?domain=hafs.hs.kr&sz=128" width="24" height="24" align="absmiddle" alt="HAFS"/>
+&nbsp; <strong>Hankuk Academy of Foreign Studies (HAFS)</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; German Language
+</p>
 
 ## Experience
 
-**System Consultant Group (SCG)** — 31st Generation  
-Backend Developer
+<p>
+<img src="https://github.com/SystemConsultantGroup.png?size=128" width="24" height="24" align="absmiddle" alt="SCG"/>
+&nbsp; <strong>System Consultant Group (SCG)</strong> — 31st Generation
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend Developer
+</p>
 
-**LIKELION** — 13th Generation  
-Backend Developer
+<p>
+<img src="https://www.google.com/s2/favicons?domain=likelion.university&sz=128" width="24" height="24" align="absmiddle" alt="LIKELION"/>
+&nbsp; <strong>LIKELION</strong> — 13th Generation
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend Developer
+</p>
 
 ---
 
