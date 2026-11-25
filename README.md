@@ -8,21 +8,23 @@
 </div>
 
 
+
 ## Education
 
 <p>
-<img src="https://www.google.com/s2/favicons?domain=skku.edu&sz=128" width="24" height="24" align="absmiddle" alt="SKKU"/>
-&nbsp; <strong>Sungkyunkwan University (SKKU)</strong>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Global Leader / Computer Science and Engineering
+  <img src="./skku.png" height="24" alt="SKKU" />
+  &nbsp;<strong>Sungkyunkwan University (SKKU)</strong>
+  <br>
+  Global Leader / Computer Science and Engineering
 </p>
 
 <p>
-<img src="https://www.google.com/s2/favicons?domain=hafs.hs.kr&sz=128" width="24" height="24" align="absmiddle" alt="HAFS"/>
-&nbsp; <strong>Hankuk Academy of Foreign Studies (HAFS)</strong>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; German Language
+  <img src="./hafs.png" height="24" alt="HAFS" />
+  &nbsp;<strong>Hankuk Academy of Foreign Studies (HAFS)</strong>
+  <br>
+  German Language
 </p>
+
 
 ## Experience
 
