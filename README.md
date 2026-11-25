@@ -39,7 +39,7 @@
 <img src="https://www.google.com/s2/favicons?domain=likelion.university&sz=128" width="24" height="24" align="absmiddle" alt="LIKELION"/>
 &nbsp; <strong>LIKELION</strong> — 13th Generation
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend Developer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend & Backend Developer
 </p>
 
 ---
