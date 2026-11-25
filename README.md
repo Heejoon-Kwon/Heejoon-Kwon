@@ -1,60 +1,128 @@
 
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=200&section=header&text=HEEJOON%20KWON.&fontSize=65&fontColor=ffffff&fontAlignY=43&desc=BACKEND%20DEVELOPER&descSize=14&descAlignY=72" width="100%"/>
+<sub>DEVELOPER / SOUTH KOREA</sub>
 
-<br>
+# JAMES KWON
 
-<!-- EDUCATION -->
+**Backend Developer**
 
-<sub>01 / EDUCATION</sub>
+---
 
-### Sungkyunkwan University
-Global Leader Studies · Software Engineering
+<!-- EDUCATION & EXPERIENCE -->
 
-### Hankuk Academy of Foreign Studies
-HAFS
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<br>
+### EDUCATION
 
-<!-- EXPERIENCE -->
+**Sungkyunkwan University**  
+Global Leader & Software
 
-<sub>02 / EXPERIENCE</sub>
+**Hankuk Academy of Foreign Studies**  
+German Language
 
-### System Consultant Group
-Backend Developer
+</td>
+<td width="50%" valign="top">
 
-<br>
+### EXPERIENCE
+
+**System Consultant Group**  
+31st Generation · Backend
+
+**LIKELION**  
+13th Generation
+
+</td>
+</tr>
+</table>
+
+---
 
 <!-- TECH STACK -->
 
-<sub>03 / TECHNOLOGIES</sub>
+### TECHNICAL STACK
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=spring,mysql,redis,gradle&theme=dark" />
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,linux&theme=dark" />
-
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=java,python,c,ts,js,html,css&theme=dark" height="38"/>
 <br>
+SQL · Verilog
+</td>
+</tr>
 
-<!-- GITHUB STATS -->
-
-<sub>04 / DEVELOPMENT ACTIVITY</sub>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Heejoon-Kwon&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heejoon-Kwon&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Heejoon-Kwon&bg_color=0d0d0d&color=ffffff&line=ffffff&point=888888&area=true&area_color=555555&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,fastapi&theme=dark" height="38"/>
 <br>
+Spring Boot · Spring Security · JPA · WebFlux · Flyway
+</td>
+</tr>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=55&section=footer&text=DESIGN.%20DEVELOP.%20ITERATE.&fontSize=12&fontColor=ffffff" width="100%"/>
+<tr>
+<td><b>Database</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,supabase,firebase&theme=dark" height="38"/>
+<br>
+MariaDB · H2 · MinIO · IndexedDB
+</td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,styledcomponents,nodejs&theme=dark" height="38"/>
+<br>
+PWA · Axios · Thymeleaf
+</td>
+</tr>
+
+<tr>
+<td><b>DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,prometheus,grafana&theme=dark" height="38"/>
+<br>
+Argo CD · Docker Compose · Oracle Cloud
+</td>
+</tr>
+
+<tr>
+<td><b>AI & Data</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="38"/>
+<br>
+OpenAI API · MCP · Spring AI · OR-Tools
+<br>
+NumPy · Pandas · SciPy · Matplotlib
+</td>
+</tr>
+
+<tr>
+<td><b>Build & Test</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=gradle,maven,npm,pnpm,vitest&theme=dark" height="38"/>
+<br>
+JUnit · Mockito · Testcontainers · Pytest · Playwright
+</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,idea,vscode,postman&theme=dark" height="38"/>
+<br>
+DataGrip · Swagger
+</td>
+</tr>
+
+<tr>
+<td><b>Systems</b></td>
+<td>
+TCP/IP · UDP · RISC-V · xv6 · KVM · QEMU
+</td>
+</tr>
+</table>
