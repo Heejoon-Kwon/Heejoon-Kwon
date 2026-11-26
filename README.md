@@ -9,21 +9,23 @@
 
 
 
+
 ## Education
 
 <p>
-  <img src="./skku.png" height="24" alt="SKKU" />
-  &nbsp;<strong>Sungkyunkwan University (SKKU)</strong>
-  <br>
-  Global Leader / Computer Science and Engineering
+<img src="./skku.png" width="24" height="24" align="absmiddle" alt="SKKU"/>
+&nbsp; <strong>Sungkyunkwan University (SKKU)</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Global Leader / Computer Science and Engineering
 </p>
 
 <p>
-  <img src="./hafs.png" height="24" alt="HAFS" />
-  &nbsp;<strong>Hankuk Academy of Foreign Studies (HAFS)</strong>
-  <br>
-  German Language
+<img src="./hafs.png" width="24" height="24" align="absmiddle" alt="HAFS"/>
+&nbsp; <strong>Hankuk Academy of Foreign Studies (HAFS)</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; German Language
 </p>
+
 
 
 ## Experience
